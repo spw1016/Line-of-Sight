@@ -1,0 +1,51 @@
+<TestSet>
+    <Test addr="101 Main St">
+        <House>
+            <From>2</From>
+            <To>6</To>
+            <At>6</At>
+        </House>
+        <PropertyLine>
+            <From>0</From>
+            <To>15</To>
+            <At>0</At>
+        </PropertyLine>
+        <Hedges>
+            <From>10</From>
+            <To>12</To>
+            <At>1</At>
+        </Hedges>
+        <Trees>
+            <From>5</From>
+            <To>6</To>
+            <At>1</At>
+        </Trees>
+        <Trees>
+            <From>8</From>
+            <To>9</To>
+            <At>1</At>
+        </Trees>
+        <Trees>
+            <From>6</From>
+            <To>7</To>
+            <At>1</At>
+        </Trees>
+    </Test>
+    <Test addr="201 Campus Dr">
+        <House>
+            <From>1</From>
+            <To>5</To>
+            <At>5</At>
+        </House>
+        <PropertyLine>
+            <From>0</From>
+            <To>10</To>
+            <At>0</At>
+        </PropertyLine>
+        <Shrubs>
+            <From>0</From>
+            <To>15</To>
+            <At>1</At>
+        </Shrubs>
+    </Test>
+</TestSet>
